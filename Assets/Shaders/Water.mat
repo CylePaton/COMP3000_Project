@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3705445369652425148
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: -6465566751694194690, guid: cbcf6e0718fd0214b82d10b0295f4781,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_1: 2.11
+    - Vector1_2: 0.19
+    - Vector1_3: 1.7
+    - Vector1_37f51ec60ebe4bcd8c1efebb947003ab: 0.82
+    - Vector1_557459001285407893eeb5f251d43f5a: 1.02
+    - Vector1_7ec7833699a2433181a5881d00c8a22a: 2.8
+    - Vector1_b89bd68ccf9e4b069e38c098a73b616e: 10.63
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors:
+    - Color_776e1d53a4ce4bfbbe7ef07ba7ac46a8: {r: 1, g: 1, b: 1, a: 1}
+    - Color_a3604b3713724de39954c8360ff3204e: {r: 0.11294047, g: 0.31574687, b: 0.509434,
+        a: 1}
+    - Color_d201f9c567ae4a58bd9ac22bb686cba5: {r: 0.37660196, g: 0.8342226, b: 0.8773585,
+        a: 1}
+  m_BuildTextureStacks: []
